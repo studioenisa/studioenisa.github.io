@@ -16,9 +16,9 @@ BASE (MOBILE) SIZE
 /* typography */
 body{
 	color:#2B0E0E;
- font-family:'Avant Garde', Arial, Helvetica, sans-serif;
-	font-size:1em;
-	line-height:1.3em; 
+ font-family:'Palatino,Times,serif;
+	font-size:1.2em;
+	line-height:1.5em; 
 	font-weight:normal;
 	
 }
@@ -30,13 +30,20 @@ h1, h2, h3, h4, h5, h6{
 	padding:0;
 } 
 
+.menu-toggle, 
+.menu-toggle.toggled-on, 
+.srt-menu, .srt-menu.toggled-on {font-family:'Avant Garde', Arial, Helvetica, sans-serif;}
+
+
+
+
 blockquote {font-style: italic;display: block; font-size: 1.3em;line-height: 1.5em; font-family:Palatino,Times,serif;}
 blockquote q:before {content: '\201C';float: left; margin-top: -.1em;}
 blockquote q:after {content: '\201D';margin-top: -.55em;}
 blockquote cite {display: block;}
 blockquote cite:before {	content:"— ";}
 
-p {font-size: 1.3em; line-height: 1.5em;}
+/* p {font-size: 1.1em; line-height: 1.4em;} */
 
 /* links */
 a,
@@ -122,6 +129,7 @@ img{ max-width:100%; height:auto;}
 	margin-bottom:60px;
 	
 }
+.srt-menu li {list-style-type: none;}
 .srt-menu li a {
 	background:#7D1B1B;
 	display:block;
@@ -129,6 +137,7 @@ img{ max-width:100%; height:auto;}
 	padding:10px;
 	text-decoration:none;
 	color:#F3E6D1;
+	
 }
 .srt-menu li a:hover{
 	background:#1B5C70;
