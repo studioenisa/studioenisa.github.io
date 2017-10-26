@@ -48,15 +48,7 @@
 <meta itemprop="name" content="Da li je orijentalni ples – ples zavođenja?"/>
 <meta itemprop="description" content="Ples vas ne može pretvoriti u „zavodljivu egzotičnu lepoticu“, ali vremenom će izneti na videlo vašu najlepšu stranu – a to je nešto daleko, daleko vrednije.">
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-5002370-4"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'UA-5002370-4');
-</script>
 </head>
 
 <body id="home">

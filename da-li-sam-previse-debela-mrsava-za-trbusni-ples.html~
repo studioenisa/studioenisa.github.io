@@ -48,15 +48,7 @@
 <meta itemprop="name" content="Da li sam previše debela / mršava za trbušni ples?"/>
 <meta itemprop="description" content="Ne postoji zdrava osoba koja je previše mršava ili debela da pleše. Ali, popularni ideali ženskog tela mogu da pomute viđenje sopstveno tela.">
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-5002370-4"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'UA-5002370-4');
-</script>
 </head>
 
 <body id="home">

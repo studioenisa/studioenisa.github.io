@@ -49,15 +49,7 @@
 <meta itemprop="name" content="Enisa"/>
 <meta itemprop="description" content="Enisa Imamović, izvođač i sertifikovani instruktor orijentalnog plesa, autor knjige Umetnost orijentalnog plesa">
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-5002370-4"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'UA-5002370-4');
-</script>
 </head>
 
 <body id="home">

@@ -48,7 +48,15 @@
 <meta itemprop="name" content="Da li će mi od trbušnog plesa narasti stomak?"/>
 <meta itemprop="description" content="Svi imaju neku poznanicu čije poznanice poznanica je smršala/ugojila se/stomak joj se zategao/opustio od trbušnog plesa. Kako ovaj ples utiče na telo?">
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-5002370-4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'UA-5002370-4');
+</script>
 </head>
 
 <body id="home">
@@ -93,7 +101,7 @@
 <!-- content area -->    
 	<section id="content" class="center">
 <div class="row"><div class="grid_4"><img src="img/stomak-285x300.jpg" width="285" height="300" alt="trbušni ples"></div>
-<div class="row_8"><p>Ovo je još jedno u nizu čestih pitanja koja se postavljaju u vezi trbušnog, tj. orijentalnog plesa. Sve mi želimo da izgledamo što bolje i prirodno je da hoćemo da znamo kakav efekat će neka aktivnost da ima na naš izgled. Kao i sve što je vezano za trbušni, tj. orijentalni ples i ovde vlada neka zbrka. Svi imaju neku poznanicu čije poznanice poznanica je smršala/ugojila se/stomak joj se zategao/opustio od trbušnog plesa.</p></div></div>	
+<div class="grid_8"><p>Ovo je još jedno u nizu čestih pitanja koja se postavljaju u vezi trbušnog, tj. orijentalnog plesa. Sve mi želimo da izgledamo što bolje i prirodno je da hoćemo da znamo kakav efekat će neka aktivnost da ima na naš izgled. Kao i sve što je vezano za trbušni, tj. orijentalni ples i ovde vlada neka zbrka. Svi imaju neku poznanicu čije poznanice poznanica je smršala/ugojila se/stomak joj se zategao/opustio od trbušnog plesa.</p></div></div>	
 <p>Pogledajte razne profesionalne igračice širom sveta: imaju najrazličitije stomake, od mršave Didem, preko mišićave Rande, do debeljuškaste Fifi. Dakle, kako ovaj ples utiče na telo? Da bi smo odgovorili na to pitanje, moramo da vidimo šta je zapravo taj „stomak“ i kako tu stvari funkcionišu.</p>	
 <p>Kada kažemo da neko „ima stomak“ obično mislimo na to da ima salo na stomaku. „Salo“ je sloj masnog tkiva između kože i mišića. Prošle nedelje smo videli da se <a href="hocu-li-da-smrsam-od-trbusnog-plesa">od plesa i drugih fizičkih aktivnosti salo sagoreva</a>, što znači stanjuje sloj masnog tkiva – ne postoji fizička aktivnost od koje bi se salo povećalo, pa tako ni od trbušnog plesa ne može u tom smislu narasti „stomačić“.
 </p>
