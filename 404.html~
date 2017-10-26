@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="sr-RS"> <!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<title>404 | Studio Enisa</title>
+<meta name="description" content="Studio Enisa: časovi orijentalnog plesa, video instrukcije, knjiga Umetnost orijentalnog plesa">
+<meta name="keywords" content="orijentalni ples, trbušni ples, škola plesa, Beograd, onlajn škola plesa, privatni časovi plesa">
+
+<!-- Mobile viewport -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<!-- favicon -->
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#b70a0a">
+<meta name="theme-color" content="#820101">
+
+<!-- CSS-->
+
+<link rel="stylesheet" href="css/normalize.css">
+<link rel="stylesheet" href="css/basic-style.css">
+
+<!-- end CSS-->
+    
+<!-- JS-->
+<script src="js/libs/modernizr-2.6.2.min.js"></script>
+<!-- end JS-->
+
+<!-- social meta tags-->
+<meta property="fb:app_id" content="108930035870883"/>
+<meta property="og:image" content="http://studioenisa.com/img/general-featured-fb.jpg" />
+<meta property="og:title" content="Studio Enisa"/>
+<meta property="og:description" content="Studio Enisa: časovi orijentalnog plesa, video instrukcije, knjiga Umetnost orijentalnog plesa"/>
+<meta property="og:url" content="http://studioenisa.com/404"/>
+<meta property="og:site_name" content="Studio Enisa"/>
+<meta property="og:type" content="website"/>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-5002370-4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-5002370-4');
+</script>
+</head>
+
+<body id="home">
+  
+<!-- header area -->
+    <header class="wrapper clearfix">
+		       
+         <div id="banner">        
+        	<div id="logo"><a href="/"><img src="img/studio-enisa-logo.svg" width="362" height="69" alt=""></a></div> 
+        </div>
+        
+        <!-- main navigation -->
+        <nav id="topnav" role="navigation">
+          <div class="menu-toggle">Menu</div>  
+          <ul class="srt-menu" id="menu-main-navigation">
+              <li><a href="enisa">Enisa</a></li>
+              <li><a href="/">Časovi</a></li>
+              <li><a href="knjiga">Knjiga</a></li>
+              <li><a href="ples">O plesu</a></li>
+              <li><a href="kontakt">Kontakt</a></li>
+              <li><a href="en/">English</a></li>	
+          </ul>     
+		</nav><!-- end main navigation -->
+  
+    </header><!-- end header -->
+ 
+ 
+<section id="page-header" class="clearfix">  
+<div class="wrapper">
+	<h1 style="text-align: center;">404</h1>
+    </div>
+
+</section>
+
+
+
+
+<!-- main content area -->   
+<div id="main" class="wrapper">
+    
+    
+<!-- content area -->    
+	<section id="content" class="center">
+	<div class="row"><div class="grid_7">
+	<p>Nažalost, stranica koju tražite se izgubila u pustinji. Do najbliže oaze kliknite na neku od stranica u gornjem meniju (izborniku). Ili krenite u potragu koristeći pretragu sajta niže:</p>
+	<p>Sorry, the page you're looking for is lost in the Sahara. To get to the closest oasis simply click on one of the links in the menu above. Or make use of the site search below:</p>
+</div><div class="grid_5"><img src="img/sahara.jpg" width="300" height="225" alt="Lost in Sahara" >	</div>
+</div>	
+	<div>
+	<h2>Pretraga / Search</h2>
+	<script>
+  (function() {
+    var cx = '005130280291229614838:5hwrxsaqhzc';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search></div>
+</div>
+
+	  
+  </section><!-- #end content area -->    
+      
+   
+    
+      
+  </div><!-- #end div #main .wrapper -->
+
+
+<!-- footer area -->    
+<footer>
+	<div id="colophon" class="wrapper clearfix">
+    	© 2007-2017 Enisa Imamović 
+    </div>
+    
+<!--You can NOT remove this attribution statement from any page, unless you get the permission from prowebdesign.ro--><div id="attribution" class="wrapper clearfix" style="color:#666; font-size:11px;">Site built with <a href="http://www.prowebdesign.ro/simple-responsive-template/" target="_blank" title="Simple Responsive Template is a free software by www.prowebdesign.ro" style="color:#777;">Simple Responsive Template</a></div><!--end attribution-->
+    
+</footer><!-- #end footer area --> 
+
+
+
+
+<!-- fire ups - read this file!  -->   
+<script src="js/main.js"></script>
+
+</body>
+</html>
