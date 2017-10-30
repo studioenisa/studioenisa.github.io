@@ -16,15 +16,16 @@ BASE (MOBILE) SIZE
 /* typography */
 body{
 	color:#2B0E0E;
- font-family:'Palatino,Times,serif;
-	font-size:1.2em;
+ font-family: serif;
+	font-size:100%;
 	line-height:1.5em; 
 	font-weight:normal;
 	
 }
 h1, h2, h3, h4, h5, h6{
 	font-weight:normal;
-	font-family:'Avant Garde', Arial, Helvetica, sans-serif;
+	font-family: sans-serif;
+	font-style: italic;
 	line-height:1.5em;
 	margin:.45em 0;
 	padding:0;
