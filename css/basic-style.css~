@@ -38,7 +38,7 @@ h1, h2, h3, h4, h5, h6{
 
 
 
-blockquote {font-style: italic;display: block; font-size: 1.3em;line-height: 1.5em; font-family:serif;}
+blockquote {font-style: italic;display: block; font-size: 1.3em;line-height: 1.5em; font-family:Palatino,Times,serif;}
 blockquote q:before {content: '\201C';float: left; margin-top: -.1em;}
 blockquote q:after {content: '\201D';margin-top: -.55em;}
 blockquote cite {display: block;}
